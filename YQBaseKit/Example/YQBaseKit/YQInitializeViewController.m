@@ -8,6 +8,7 @@
 
 #import "YQInitializeViewController.h"
 
+
 @interface YQInitializeViewController ()
 
 @end
@@ -17,6 +18,9 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
+    
+    NSString* emptyString = @"";
+    NSLog(@"this is a empty string %ld", [emptyString isEmptyString]);
 }
 
 /*

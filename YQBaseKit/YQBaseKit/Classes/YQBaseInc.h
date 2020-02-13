@@ -18,5 +18,5 @@
 
 
 #import "NSObject+YQRootExt.h"
-
+#import "NSString+YQBaseExt.h"
 #endif /* YQBaseInc_h */
