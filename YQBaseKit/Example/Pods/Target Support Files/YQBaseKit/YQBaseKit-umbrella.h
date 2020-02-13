@@ -10,6 +10,9 @@
 #endif
 #endif
 
+#import "NSObject+YQRootExt.h"
+#import "NSString+YQBaseExt.h"
+#import "YQBaseInc.h"
 
 FOUNDATION_EXPORT double YQBaseKitVersionNumber;
 FOUNDATION_EXPORT const unsigned char YQBaseKitVersionString[];

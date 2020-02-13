@@ -1,15 +1,42 @@
 PODS:
-  - YQBaseKit (0.1.0)
+  - Masonry (1.1.0)
+  - MJExtension (3.1.0)
+  - MJRefresh (3.2.0)
+  - SDWebImage (5.0.6):
+    - SDWebImage/Core (= 5.0.6)
+  - SDWebImage/Core (5.0.6)
+  - YQBaseKit (1.0.0):
+    - Masonry
+    - MJExtension
+    - MJRefresh
+    - SDWebImage
+    - YYKit
+  - YYKit (1.0.9):
+    - YYKit/no-arc (= 1.0.9)
+  - YYKit/no-arc (1.0.9)
 
 DEPENDENCIES:
   - YQBaseKit (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Masonry
+    - MJExtension
+    - MJRefresh
+    - SDWebImage
+    - YYKit
 
 EXTERNAL SOURCES:
   YQBaseKit:
     :path: "../"
 
 SPEC CHECKSUMS:
-  YQBaseKit: 4a7a6c21b4a5e0863d57c22f4aa0901694f74b0c
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MJExtension: 6b69b3bef2864fd550ce1a184eda219e321209d2
+  MJRefresh: ed450d6eb9d3346a2cb033ab7eb6de090aeef437
+  SDWebImage: 920f1a2ff1ca8296ad34f6e0510a1ef1d70ac965
+  YQBaseKit: 36eefcc45487cf127995c03a2ae33107a0dde07a
+  YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
 
 PODFILE CHECKSUM: ea108d9213a7974b0228de132918ca4a44e38205
 

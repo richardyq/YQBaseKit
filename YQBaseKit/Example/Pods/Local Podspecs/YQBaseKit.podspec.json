@@ -1,6 +1,6 @@
 {
   "name": "YQBaseKit",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "summary": "A short description of YQBaseKit.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/richardyq/YQBaseKit",
@@ -13,10 +13,27 @@
   },
   "source": {
     "git": "https://github.com/richardyq/YQBaseKit.git",
-    "tag": "0.1.0"
+    "tag": "1.0.0"
   },
   "platforms": {
-    "ios": "8.0"
+    "ios": "9.0"
   },
-  "source_files": "YQBaseKit/Classes/**/*"
+  "source_files": "YQBaseKit/Classes/**/*",
+  "dependencies": {
+    "YYKit": [
+
+    ],
+    "Masonry": [
+
+    ],
+    "MJRefresh": [
+
+    ],
+    "MJExtension": [
+
+    ],
+    "SDWebImage": [
+
+    ]
+  }
 }
