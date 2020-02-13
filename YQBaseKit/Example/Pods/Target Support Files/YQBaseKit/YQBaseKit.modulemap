@@ -1,0 +1,6 @@
+framework module YQBaseKit {
+  umbrella header "YQBaseKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "YQBaseKit",
+  "version": "0.1.0",
+  "summary": "A short description of YQBaseKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/richardyq/YQBaseKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "richardyq": "47113328@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/richardyq/YQBaseKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YQBaseKit/Classes/**/*"
+}

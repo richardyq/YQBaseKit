@@ -1,0 +1,16 @@
+PODS:
+  - YQBaseKit (0.1.0)
+
+DEPENDENCIES:
+  - YQBaseKit (from `../`)
+
+EXTERNAL SOURCES:
+  YQBaseKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YQBaseKit: 4a7a6c21b4a5e0863d57c22f4aa0901694f74b0c
+
+PODFILE CHECKSUM: ea108d9213a7974b0228de132918ca4a44e38205
+
+COCOAPODS: 1.7.5
